@@ -6,3 +6,8 @@ this is a test
 
 Change this in GIT
 
+## Local development
+
+1. Open index.html in browser
+
+
